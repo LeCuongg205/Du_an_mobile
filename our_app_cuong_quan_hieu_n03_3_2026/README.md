@@ -3,7 +3,7 @@
 A new Flutter project.
 # Nội dung :
 App của Quân, Hiếu và Cường
-# Thành viên :
+# thành viên :
 Lê Anh Quân 23010580
 Nguyễn Đình Hiếu 23010827
 Lê Mạnh Cường 23010224
